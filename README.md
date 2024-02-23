@@ -22,8 +22,6 @@ git clone <url-del-repositorio>
 cd <directorio-del-repositorio>
 python temporizador.py
 
-Para crear una descripción HTML atractiva y técnica para el README.md de un repositorio de GitHub, podemos utilizar elementos de Markdown que GitHub interpreta para mejorar la presentación, como títulos, listas, código y emojis. Aunque el Markdown de GitHub no interpreta directamente el HTML para todos los elementos (como los iconos personalizados directamente en el archivo README.md), se pueden utilizar imágenes de iconos alojadas externamente o emojis estándar para añadir un toque visual. A continuación, te muestro cómo podrías estructurar tu descripción utilizando elementos de Markdown que simulan lo que pides en HTML:
-
 markdown
 Copy code
 # Temporizador con Alarma 🕒🔊
