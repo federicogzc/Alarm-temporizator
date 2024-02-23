@@ -9,7 +9,7 @@ def start_timer(duration):
 
 def play_sound():
     # Asegúrate de actualizar la ruta al archivo MP4 correctamente
-    filepath = "/mnt/c/Users/Frederick/Desktop/proyectos/Code/itsMylife.mp4"
+    filepath = "Aquí pones la ruta de tu archivo mp4"
     # En Linux, utiliza 'xdg-open' para abrir archivos con su programa predeterminado
     os.system(f'xdg-open "{filepath}"')
 
